@@ -3,7 +3,7 @@
 <summary>About Me (접혔을 때 화살표 옆에 뜨는 텍스트)</summary>
 <span>
   <a href="https://www.instagram.com/6unoyunr/">
-    <img src="https://img.shields.io/badge/amazonwebservices-#232F3E?style=plastic&logo=amazonwebservices-&logoColor=white"/>
+    <img src="https://img.shields.io/badge/amazonwebservices-232F3E?style=plastic&logo=amazonwebservices-&logoColor=white"/>
   </a>
 </span>
   
